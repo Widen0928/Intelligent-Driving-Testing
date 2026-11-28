@@ -1,0 +1,473 @@
+{
+  "roots": [
+    "/Users/houjiakuan/Documents/Codex/2026-11-18/cha/outputs/github-migration/Intelligent-Driving-Testing"
+  ],
+  "files": [
+    {
+      "path": "sources/0/requirements.txt",
+      "bytes": 323,
+      "sha256": "28964da221f515bccfc0f32f4166e90491e604b8ab5b71fe16f0cf6879c71a05"
+    },
+    {
+      "path": "sources/0/pyproject.toml",
+      "bytes": 619,
+      "sha256": "adfcc60fa4f60c8617600b6924d774632b262ce92a0d665dffa3d14f0cecc71a"
+    },
+    {
+      "path": "sources/0/README.md",
+      "bytes": 6583,
+      "sha256": "aef7085ff8fc13c50c2fb165725a87b18b484b46377ecb7af15837af9677edbc"
+    },
+    {
+      "path": "sources/0/.gitignore",
+      "bytes": 565,
+      "sha256": "d93af08d66c64eef901b8343027b1aeb2531c0d92883dda98ad217adac946756"
+    },
+    {
+      "path": "sources/0/README.zh-CN.md",
+      "bytes": 6459,
+      "sha256": "3c206994d8f7d8ff08167d027619a0b28097780a875d30c4c32d02f600a2f895"
+    },
+    {
+      "path": "sources/0/AGENTS.md",
+      "bytes": 1666,
+      "sha256": "dce5eb6b9fd3534a4261e81145e09d963b015808a8c4236385b1140292877157"
+    },
+    {
+      "path": "sources/0/config/github-actions-unit-tests.yml",
+      "bytes": 647,
+      "sha256": "ecf3af2c30785636a52ac83c7da73878bd95acb01a06eb5c553308ec63f1a652"
+    },
+    {
+      "path": "sources/0/config/regression_baseline.yaml",
+      "bytes": 944,
+      "sha256": "d96cabf21e3a76b45b3d942e04c137e358a012a5b498d727cdd028fcf444243f"
+    },
+    {
+      "path": "sources/0/config/default.yaml",
+      "bytes": 872,
+      "sha256": "6d19ce5d46df494fdf42d1c35cbba4f7e2be7af49efdca758d95cddce6cb80fd"
+    },
+    {
+      "path": "sources/0/config/scenarios.yaml",
+      "bytes": 2582,
+      "sha256": "571b518093ba10309f528ff5d6e611049b313adda0e8d1856ffd8ea918429819"
+    },
+    {
+      "path": "sources/0/tests/test_testing_module.py",
+      "bytes": 10182,
+      "sha256": "a08b02a1e661b5fe7218d433e18583b5862d8315e73c550302cce32c29c55e17"
+    },
+    {
+      "path": "sources/0/tests/test_package_layout.py",
+      "bytes": 419,
+      "sha256": "df73e2f5b897f05981336d1a6088d2f2df64c15a720ade5c1a9ce9b69d8b7b4b"
+    },
+    {
+      "path": "sources/0/tests/test_perception_validator.py",
+      "bytes": 1907,
+      "sha256": "807a537574957a6a5936b77f1538ae868ca1a4792058dc0332be468a0f4f6c20"
+    },
+    {
+      "path": "sources/0/tests/test_perception.py",
+      "bytes": 9763,
+      "sha256": "0475032fee328ef37c52b6cd525f5036be13013ef1b1be02a257e6458e397885"
+    },
+    {
+      "path": "sources/0/tests/test_simulation_interface.py",
+      "bytes": 7237,
+      "sha256": "e0d030d291089e8ca4431783b77022ebdb8672400c879a4e760852210215b3a0"
+    },
+    {
+      "path": "sources/0/tests/test_config_loader.py",
+      "bytes": 6668,
+      "sha256": "8adba3b126dd5532d8b06164bac94ebf3b9c3bc709625bd123d368eb0a25d386"
+    },
+    {
+      "path": "sources/0/tests/test_perception_pipeline.py",
+      "bytes": 6301,
+      "sha256": "9ff0b2133a769cda709d2e9306179a65a5427cb34b5530cdf58de6f3e57c0ae7"
+    },
+    {
+      "path": "sources/0/tests/test_adas_runtime.py",
+      "bytes": 1631,
+      "sha256": "6566f6d7d27963d772ed401e18b672309a38b2d9441617a0f70377206591a03c"
+    },
+    {
+      "path": "sources/0/tests/test_analysis.py",
+      "bytes": 2811,
+      "sha256": "e0124881a9de862cbb3eb550d5287f3e677d48ce1d898eddf2d0b2b123379176"
+    },
+    {
+      "path": "sources/0/tests/test_gazebo_telemetry.py",
+      "bytes": 2818,
+      "sha256": "f9a7b2f9342d4dd7a9c67938bc526ca3a9a04b3eeaec64fa6c2fb1cfb9e5cdee"
+    },
+    {
+      "path": "sources/0/tests/test_fault_injection.py",
+      "bytes": 2783,
+      "sha256": "5410c2365a02a8db84d64630aa7429eb06075ec2b83e046e010a4400e22acd21"
+    },
+    {
+      "path": "sources/0/tests/test_aeb.py",
+      "bytes": 8154,
+      "sha256": "750cbeff3405bacfdcad1534acb77bf49e4f81d11f4a1ebb4bd650c4f4dc9335"
+    },
+    {
+      "path": "sources/0/tests/test_vehicle_control.py",
+      "bytes": 6477,
+      "sha256": "4dd1bbcc339298272e776db77b7c2d4ccf581bb445c9046d39d6dde0129fdf2c"
+    },
+    {
+      "path": "sources/0/tests/test_scenarios.py",
+      "bytes": 1906,
+      "sha256": "d681e2f89eaef6edb2480c14fca3408ebeb380b0e6bf39fcb869417451f3dc26"
+    },
+    {
+      "path": "sources/0/tests/test_lane_detector.py",
+      "bytes": 5578,
+      "sha256": "2d3cc5735970e1469885f77437d23bed11545102af4b40e6d66f0d1c2d94ae23"
+    },
+    {
+      "path": "sources/0/tests/test_lka_validation.py",
+      "bytes": 7072,
+      "sha256": "a9ed399e047eff4205bce301e0188a7c69a2747d7bc2668b9cdbbfb74a158af4"
+    },
+    {
+      "path": "sources/0/tests/test_planning.py",
+      "bytes": 4189,
+      "sha256": "846581a10daabf15c9c5bb5df9a94deaa8e7fef6873689b7a9bd9751e6bfcf78"
+    },
+    {
+      "path": "sources/0/tests/test_regression.py",
+      "bytes": 1590,
+      "sha256": "5bc4d8ec234aeed5969f849751a150d5c522489ab536af4d24b0a91c7df8ddfa"
+    },
+    {
+      "path": "sources/0/docs/architecture.md",
+      "bytes": 2655,
+      "sha256": "29ac0af3379d33e795f1d23f01ac575102417276871812c699e1f125821892f6"
+    },
+    {
+      "path": "sources/0/logs/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "sources/0/scripts/validate_lka.py",
+      "bytes": 1126,
+      "sha256": "52d897277b216929a7a0f07bfccdb8a3092ce80e45baf3c0af867b6dc100b445"
+    },
+    {
+      "path": "sources/0/scripts/run_scenarios.py",
+      "bytes": 3654,
+      "sha256": "57e416284e99b40d5c2f93b67bb4116facad36469286d95207ffe3d3260b89d4"
+    },
+    {
+      "path": "sources/0/scripts/validate_aeb.py",
+      "bytes": 1182,
+      "sha256": "0ec87bd83c1eaf971ef6465498b6dad9bd3994184170eff61f19cff704a8455c"
+    },
+    {
+      "path": "sources/0/scripts/control_vehicle.py",
+      "bytes": 3090,
+      "sha256": "8d3e7dab516e3e14d96af3a815e97da0daad461d4d0208c6c07c6eb1e7531caf"
+    },
+    {
+      "path": "sources/0/scripts/run_aeb.py",
+      "bytes": 3576,
+      "sha256": "7bb0ec91c949e9336341be8e3acb0ba93a813a7473cd1d50b0f1012dc4a682de"
+    },
+    {
+      "path": "sources/0/scripts/check_regression.py",
+      "bytes": 1489,
+      "sha256": "f1e057e2232b866cda50fded170eaa36dafa8620186938dad061e21a8559255a"
+    },
+    {
+      "path": "sources/0/scripts/run_lka.py",
+      "bytes": 3980,
+      "sha256": "792fd20b3bf1c1431555e01e92ba015fa02854eef886a760f16af29726fec0e8"
+    },
+    {
+      "path": "sources/0/scripts/README.md",
+      "bytes": 1213,
+      "sha256": "bec623f13ebbc215da8fb6f4e50262f5b8759164beb0ef44b6ad055f0c92146a"
+    },
+    {
+      "path": "sources/0/scripts/validate_yolo.py",
+      "bytes": 2166,
+      "sha256": "ab3123e6b274a1c76905c5244ad1b7a6ebe3765c46c604edd748280f9d7d1418"
+    },
+    {
+      "path": "sources/0/scripts/run_adas.py",
+      "bytes": 4462,
+      "sha256": "efc4666079d0ae884826ca35152e0261d4254cfa4224db6ce4a3e1c92f314605"
+    },
+    {
+      "path": "sources/0/scripts/verify_gazebo_communication.py",
+      "bytes": 1282,
+      "sha256": "c550a012d6d086c73eb92baf0ec333bce802e6ea8697d37c4ff0fbe07cd59c72"
+    },
+    {
+      "path": "sources/0/scenarios/README.md",
+      "bytes": 1235,
+      "sha256": "bcaa63054a985f7f24b1caa908bad74272cb4a04eeb0ef7024b399d1a35d2371"
+    },
+    {
+      "path": "sources/0/scenarios/worlds/test_ackermann.sdf",
+      "bytes": 1882,
+      "sha256": "ae3de4866de4cd4057fa1c1cd6f1ef8f138f7ab6244303a6e990deb4ecfcb10f"
+    },
+    {
+      "path": "sources/0/scenarios/worlds/lane_change.sdf",
+      "bytes": 3264,
+      "sha256": "1b08c1ed618390af9af77cb35e30a885e65a66e6a438e80e797f8f4fa1658a6c"
+    },
+    {
+      "path": "sources/0/scenarios/worlds/pedestrian_crossing.sdf",
+      "bytes": 3225,
+      "sha256": "215d73e90b020b5b61388a37aea679b28588c8f69a0506bff613a4cfe0b688ab"
+    },
+    {
+      "path": "sources/0/scenarios/worlds/follow_scenario.sdf",
+      "bytes": 3241,
+      "sha256": "34080e0b8f8f130c46de91ffbccdda1af73df67349db362d32af555144bde6d5"
+    },
+    {
+      "path": "sources/0/scenarios/worlds/simple_road.sdf",
+      "bytes": 4761,
+      "sha256": "75bcd31fb31d3c20113b9fea14a12d09df022da4464bbe4203b3387ee74eaede"
+    },
+    {
+      "path": "sources/0/scenarios/models/ego_vehicle/model.sdf",
+      "bytes": 11581,
+      "sha256": "1ff68ec3f765a534ec8a01085fc4a95b58e595f3082b8ba21c1c9f5d677832d3"
+    },
+    {
+      "path": "sources/0/scenarios/models/ego_vehicle/model.config",
+      "bytes": 335,
+      "sha256": "3d34cad97ddf1813bbed1f72b70f65e8ea9aac9b64e8a48286d7da8971cdda9b"
+    },
+    {
+      "path": "sources/0/scenarios/models/example_vehicle/model.sdf",
+      "bytes": 10414,
+      "sha256": "3222525cf7fb99bf9f49364a8753aa5bdd76d8a932881108dd2ba2422efda14b"
+    },
+    {
+      "path": "sources/0/scenarios/models/example_vehicle/model.config",
+      "bytes": 209,
+      "sha256": "6bdf1520f38e1efbc19a7534f6d8217ec75b3878aefaa0b9baa42034dbd450f2"
+    },
+    {
+      "path": "sources/0/scenarios/models/pedestrian/model.sdf",
+      "bytes": 808,
+      "sha256": "52188fb0f3dca679e9163e760bfdb04ac4be1bee242130b7409cbe1d2b6fd3af"
+    },
+    {
+      "path": "sources/0/scenarios/models/pedestrian/model.config",
+      "bytes": 218,
+      "sha256": "7a1949fcdd8512070a4b30f685fd438641829ed4a433b988267221acea76a6e3"
+    },
+    {
+      "path": "sources/0/scenarios/models/obstacle_vehicle/model.sdf",
+      "bytes": 821,
+      "sha256": "df055921bba0f1669f639e0b7f5aa7f1e599a80a34b8d5fed1339c696b6dc311"
+    },
+    {
+      "path": "sources/0/scenarios/models/obstacle_vehicle/model.config",
+      "bytes": 216,
+      "sha256": "ffb12c8a4bf8395b9de33d1538d5f8e16dfa74ca47e043608e5bffe757f82388"
+    },
+    {
+      "path": "sources/0/data/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "sources/0/reports/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "sources/0/src/planning/planner.py",
+      "bytes": 770,
+      "sha256": "6f0db404c4138bae098d85a51d003802b24bcd650d6ef55defd450e9ff95136f"
+    },
+    {
+      "path": "sources/0/src/planning/behavior_planner.py",
+      "bytes": 1473,
+      "sha256": "fcf8db31cba5c8d534f8808918d1e0d6b6a45196cda4c46a6efac44ba66247d8"
+    },
+    {
+      "path": "sources/0/src/planning/aeb_controller.py",
+      "bytes": 4178,
+      "sha256": "1246dbc63087fb9d6356a469bbbe5679745bb4344cb1a71d24466c38add22132"
+    },
+    {
+      "path": "sources/0/src/planning/lane_keeper.py",
+      "bytes": 2072,
+      "sha256": "225e7c4c180a7e9f21b658a10245a7e9418dc5568fbcb7a6c0a28ff5127c5794"
+    },
+    {
+      "path": "sources/0/src/planning/adas_pipeline.py",
+      "bytes": 4284,
+      "sha256": "20532d0f56be515896184292c7cdb8c56e41877cd09082bb6336ecff1499198b"
+    },
+    {
+      "path": "sources/0/src/planning/__init__.py",
+      "bytes": 693,
+      "sha256": "7eb6165fd725f59dc7463f8455756110878f98a5ad1d4d73ca4a47d0aefa397b"
+    },
+    {
+      "path": "sources/0/src/planning/lka_pipeline.py",
+      "bytes": 4131,
+      "sha256": "37bcc230604be6e628415a33a2656afb24f2061957e7576904df7d7321903c47"
+    },
+    {
+      "path": "sources/0/src/planning/aeb_pipeline.py",
+      "bytes": 4498,
+      "sha256": "4561dc03f6984ebda47bd923e504e4883a04b5d756fdbdfcfdda7861805f3f03"
+    },
+    {
+      "path": "sources/0/src/simulation/gazebo_telemetry.py",
+      "bytes": 6042,
+      "sha256": "0b603e6ad9dd2f2d88a6fcd3c9ac2fff17589f499a0bab347b4a2bc54d7a9769"
+    },
+    {
+      "path": "sources/0/src/simulation/__init__.py",
+      "bytes": 289,
+      "sha256": "be9b05d5dc581390616f6e3fa54a42e8eadffbf2da60a46cef3f925a9e096800"
+    },
+    {
+      "path": "sources/0/src/simulation/simulator.py",
+      "bytes": 1778,
+      "sha256": "c62a7ce8c8b57b1b4d78b04c17f24b263e5d46c5f4753583e428c76ea5dc8e2d"
+    },
+    {
+      "path": "sources/0/src/simulation/gazebo_client.py",
+      "bytes": 7759,
+      "sha256": "549e591a7c6665eabed78f3a6a29dfdf82adfca198449529e47724c0318aa1fb"
+    },
+    {
+      "path": "sources/0/src/testing/metrics.py",
+      "bytes": 4145,
+      "sha256": "eddb1a6d7bf6f537e97f9bc7649e292055773cf415d3403b6945869adcc40317"
+    },
+    {
+      "path": "sources/0/src/testing/config_loader.py",
+      "bytes": 4595,
+      "sha256": "04c9809cbf8505fcbc7c98462267dfcc33d5c4f4f611a50ebae7b01e0dac688d"
+    },
+    {
+      "path": "sources/0/src/testing/runner.py",
+      "bytes": 11690,
+      "sha256": "91a5343dc3771dc97b1e5ca502acfa9c7baf045ed2afae64b634908111a41d98"
+    },
+    {
+      "path": "sources/0/src/testing/regression.py",
+      "bytes": 3211,
+      "sha256": "fddd9701da2be611480c8ad25c2bd77c6b03e15414f589ce0ed475d75ff24b82"
+    },
+    {
+      "path": "sources/0/src/testing/analysis.py",
+      "bytes": 3588,
+      "sha256": "30eba2588173d5ad888916ecb8b0144a3440bb011d7e79ba21e67fe0bab76b05"
+    },
+    {
+      "path": "sources/0/src/testing/fault_injection.py",
+      "bytes": 6791,
+      "sha256": "97d5e36c6a59932974dcf1bd20481eac111ea43fbb08509a30d9d56ed8464f92"
+    },
+    {
+      "path": "sources/0/src/testing/__init__.py",
+      "bytes": 2091,
+      "sha256": "65d3746fd73443035191ab2c0de58e21b9ffeebf1c94c594eb119fdcdd0eaa91"
+    },
+    {
+      "path": "sources/0/src/testing/aeb_validator.py",
+      "bytes": 6171,
+      "sha256": "1de391fa10f9ae36f8f8692dec1de64f7270a4f5ce0dd116b3e62869aca5adb1"
+    },
+    {
+      "path": "sources/0/src/testing/assertions.py",
+      "bytes": 5717,
+      "sha256": "5705179593f65969c1a3cf7ec0d602c2777c2e397aa4c99a5d907966bf5f0b81"
+    },
+    {
+      "path": "sources/0/src/testing/adas_runtime.py",
+      "bytes": 7734,
+      "sha256": "f50d4c7062a10225bbdf0650f84b1b9c78626ff364bd5c4a2a48a00de9b01a2b"
+    },
+    {
+      "path": "sources/0/src/testing/scenario.py",
+      "bytes": 1450,
+      "sha256": "bde4daf4c963194b97f8f49ad612ebdae2ee7944cc5940712b33d3d3c49ebc9d"
+    },
+    {
+      "path": "sources/0/src/testing/perception_validator.py",
+      "bytes": 6168,
+      "sha256": "541dda3f2cf4698e2bed61deaeb4ab3f536d729ff42ae68821724b5e1f87f6d8"
+    },
+    {
+      "path": "sources/0/src/testing/lka_validator.py",
+      "bytes": 5435,
+      "sha256": "3fdd3b0d79768f4c3bcaf0b807456000ec50ae0ecfee698c8bf40b1f48fffb5b"
+    },
+    {
+      "path": "sources/0/src/testing/report.py",
+      "bytes": 3048,
+      "sha256": "6114fc9820582f2eab0c208e9c2486ee847dafa79c3c97656b1074399cd17b23"
+    },
+    {
+      "path": "sources/0/src/perception/perception_pipeline.py",
+      "bytes": 5203,
+      "sha256": "645b7755231357bdf03a2d5802e83b943f5fd22efaf1631e46bb4f7948cfd763"
+    },
+    {
+      "path": "sources/0/src/perception/sensor.py",
+      "bytes": 1107,
+      "sha256": "65634f98c81f19732a9aaa53cfb0007880a0fa079a431d64828ffbf9628a3332"
+    },
+    {
+      "path": "sources/0/src/perception/object_detector.py",
+      "bytes": 1761,
+      "sha256": "cb65da54842dcc89913ab4b309382a7affe8afcfe547b370f4c28270906ac545"
+    },
+    {
+      "path": "sources/0/src/perception/__init__.py",
+      "bytes": 764,
+      "sha256": "f5e352c1f15a0ce5438c475a5f1f5a3a1f6d302b0f21137f68d38a51f8a68a04"
+    },
+    {
+      "path": "sources/0/src/perception/camera.py",
+      "bytes": 4408,
+      "sha256": "e68f9fa9063ba62a06a24c3e3f3b5c0f5020c1103c1a26d30d8d0dcdb2e201a7"
+    },
+    {
+      "path": "sources/0/src/perception/lidar.py",
+      "bytes": 4418,
+      "sha256": "1613f7538d9cb3f886963bdff32ee0505d9e3580948cf39a9f42847c39593d63"
+    },
+    {
+      "path": "sources/0/src/perception/lane_detector.py",
+      "bytes": 3548,
+      "sha256": "4bdf306eb442cdfbf2835ffe68b41975fc51bd25a6e85157155359102c60e22c"
+    },
+    {
+      "path": "sources/0/src/control/__init__.py",
+      "bytes": 232,
+      "sha256": "a08c0f92119d37a444c1e6b115e4d1fb8ae2ed7cba2f211a707d6fc26694cdb2"
+    },
+    {
+      "path": "sources/0/src/control/gazebo_ackermann_controller.py",
+      "bytes": 3641,
+      "sha256": "7b41e8aa76af6870945bcdb08a66c3fd8f58ec00115ed2e5ff2936afa16b7d4c"
+    },
+    {
+      "path": "sources/0/src/control/vehicle_controller.py",
+      "bytes": 1727,
+      "sha256": "8cdb8a0bb39b8a727809c2b4f752e0959f660844bf5002c1257a2e83fe2ca28d"
+    }
+  ],
+  "excluded": []
+}
